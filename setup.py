@@ -36,7 +36,7 @@ setup(
     
     entry_points={
         'console_scripts': [
-            'svtools=svtools.cli:main',
+            'svtools=svtools.cli2:cli',
             ]
     },
 )
